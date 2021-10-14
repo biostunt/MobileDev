@@ -1,0 +1,18 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "Lesson1"
+include ':task3_2'
+include ':task4_1_1'
+include ':task4_1_2'
+include ':task4_1_3'
+include ':task4_1_4'
+include ':task4_2'
+include ':task5_2'
+include ':task6'
+include ':task7'
