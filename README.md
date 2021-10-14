@@ -8,4 +8,4 @@
 ## Progress:
 
 -   ### practice №1 (Completed.)
--   ### practice №2 (In progress...)
+-   ### practice №2 (Completed.)
