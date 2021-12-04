@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android/Lessons/lesson3/EducationPlace/src/main/res/layout/activity_form.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/EducationPlace/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/IntentApp/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/IntentApp/src/main/res/layout/activity_receiver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/drawable/side_nav_bar.xml" value="0.22135416666666666" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/layout/app_bar_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/layout/content_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/layout/fragment_browser.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/layout/fragment_gallery.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/layout/fragment_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/layout/fragment_slideshow.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/menu/main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/MireaProject/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/Share/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/Share/src/main/res/layout/activity_send.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/SimpleFragmentApp/src/main/res/layout-land/activity_main.xml" value="0.17372134038800705" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/SimpleFragmentApp/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/SimpleFragmentApp/src/main/res/layout/fragment_1.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/SimpleFragmentApp/src/main/res/layout/fragment_2.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Android/Lessons/lesson3/SystemIntentsApp/src/main/res/layout/activity_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
